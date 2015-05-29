@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dsjvbsdv's
 sdnv sdvs
 s
@@ -10,6 +11,8 @@ dv
 sdckhadbcvsd
 ascjasca
 scabscas
+=======
+>>>>>>> parent of a0df8d4... dbfhdf
 some text her
 e
 dcdcsd
